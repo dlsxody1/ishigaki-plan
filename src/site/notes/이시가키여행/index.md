@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/이시가키여행/index/","tags":["gardenEntry"]}
 ---
 
 # 이시가키 여행

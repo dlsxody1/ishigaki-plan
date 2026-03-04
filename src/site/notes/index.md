@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"김인태의 메모장","tags":["gardenEntry"]}
 ---
 
 
-# Carlos's Digital Garden
+# 김인태의 메모장
+
+![og-image.png](/img/user/og-image.png)
 
 ---
 
